@@ -1,11 +1,11 @@
 {
-  "ownerNumber": ["62xxxx@s.whatsapp.net"],
-  "ownerName": ["r"],
-  "botName": "Chitanda Eru Bot",
+  "ownerNumber": ["628980870067@s.whatsapp.net"],
+  "ownerName": ["Sabil Ofc"],
+  "botName": "Futube Md",
   "sessionName": "rtwone-md",
-  "pathimg": "./media/Chitanda.jpg",
+  "pathimg": "./media/futube.jpg",
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 50,
   "gcount": {
 	"prem": 35,
 	"user": 15
